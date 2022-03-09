@@ -1,0 +1,10 @@
+.portfolio{
+    margin-left: 100px;
+}
+.myportfolio{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}

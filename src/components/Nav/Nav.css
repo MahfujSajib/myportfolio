@@ -1,0 +1,18 @@
+.navs{
+    background: rgba(0, 0,0,0.3);
+    width: max-content;
+    margin-left: 42%;
+    margin-top: 20px;
+    padding: 5px;
+    position: fixed;
+    z-index: 2;
+}
+.navbars{
+    padding: 10px;
+    font-size: 20px;
+    color: aquamarine;
+
+}
+.navbars:hover{
+    color: rgb(77, 144, 231);
+}

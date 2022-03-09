@@ -1,0 +1,37 @@
+.contact-me{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.contactme{
+    border: 1px solid aquamarine;
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+}
+.mailicon{
+    font-size: 25px;
+    margin-left: 125px;
+}
+.email{
+    margin-left: 105px;
+    margin-top: 25px;
+}
+.emailid{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.phone{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.skypeid{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.contactme:hover{
+    background-color: #2A2A67;
+}

@@ -1,0 +1,45 @@
+.experiences{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.frontend-experience{
+    border: 1px solid #36afce;
+    border-radius: 25px;
+    width: 600px;
+    height: 600px;
+    margin: 20px;
+}
+.backend-experience{
+    border: 1px solid  #39e0bc;
+    border-radius: 25px;
+    width: 600px;
+    height: 600px;
+    margin: 20px;
+}
+/* FORNTEND SKILLS */
+.frontend-skills{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    margin-top: 60px;
+}
+
+/* BACKEND SKILLS */
+
+.backend-skills{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    margin-top: 60px;
+}
+
+/* HOVER */
+
+.frontend-experience:hover{
+    background-color: #2A2A67;
+}
+.backend-experience:hover{
+    background-color: #183c77;
+    border: 1px solid #36afce;
+}

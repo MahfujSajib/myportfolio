@@ -1,0 +1,26 @@
+.footer{
+    border: 1px solid rgb(0, 234, 255);
+    height: 300px;
+    background-color: rgba(10, 176, 218, 0.76);
+}
+.footer-name{
+    text-align: center;
+    color: rgba(245, 245, 245, 0.856);
+    margin-top: 40px;
+}
+.footer-nav{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.footer-nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.footer-nav a:hover{
+    color: aquamarine;
+}
+.copy-rights{
+    text-align: center;
+    margin-top: 30px;
+}
